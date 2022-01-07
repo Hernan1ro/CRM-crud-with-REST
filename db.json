@@ -6,6 +6,20 @@
       "telefono": "12",
       "empresa": "12212",
       "id": 26
+    },
+    {
+      "nombre": "Hernan David",
+      "email": "Hernandmf@gmail.com",
+      "telefono": "3225183270",
+      "empresa": "Tecbaco",
+      "id": 27
+    },
+    {
+      "nombre": "Lina campo",
+      "email": "Hernandmf@gmail.com",
+      "telefono": "3225183270",
+      "empresa": "Tecbaco",
+      "id": 28
     }
   ]
 }
