@@ -1,13 +1,6 @@
 {
   "clientes": [
     {
-      "nombre": "Juan NUEVO!",
-      "email": "correo2@correo.com",
-      "telefono": "12",
-      "empresa": "12212",
-      "id": 26
-    },
-    {
       "nombre": "Hernan David",
       "email": "Hernandmf@gmail.com",
       "telefono": "3225183270",
@@ -20,13 +13,6 @@
       "telefono": "3225183270",
       "empresa": "Tecbaco",
       "id": 28
-    },
-    {
-      "nombre": "Iron maiden",
-      "email": "Hernansdmf@gmail.com",
-      "telefono": "3225183270",
-      "empresa": "Tecbaco",
-      "id": 29
     }
   ]
 }
