@@ -1,17 +1,17 @@
 {
   "clientes": [
     {
-      "nombre": "Hernan David",
+      "nombre": "Hernan David Mercado",
       "email": "Hernandmf@gmail.com",
-      "telefono": "3225183270",
-      "empresa": "Tecbaco",
+      "telefono": "Tecbaco",
+      "empresa": "3225183270",
       "id": 27
     },
     {
-      "nombre": "Lina campo",
+      "nombre": "Lina campo Niño",
       "email": "Hernandmf@gmail.com",
-      "telefono": "3225183270",
-      "empresa": "Tecbaco",
+      "telefono": "Tecbaco",
+      "empresa": "3225183270",
       "id": 28
     }
   ]

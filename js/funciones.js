@@ -28,3 +28,7 @@ export function mostrarAlerta(msj) {
     setTimeout(() => alerta.remove(), 2000);
   }
 }
+
+export function validar(obj) {
+  return Object.values(obj).some((input) => input === "");
+}
